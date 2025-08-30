@@ -16,7 +16,7 @@
 
 <!-- Hello World animado -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=F75C7E&size=24&center=true&vCenter=true&width=500&lines=Console.WriteLine(%22Hello+World!%22);Soy+Hubert+Ferrer+🚀;Full+Stack+.NET+%26+React+💻" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=007ACC&size=16&center=true&vCenter=true&width=500&lines=Console.WriteLine(%22Hello+World!%22);Soy+Hubert+Ferrer+🚀;Full+Stack+.NET+%26+React+💻" />
 </p>
 
 ---
