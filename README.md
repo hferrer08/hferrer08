@@ -37,7 +37,7 @@
 ---
 
 ## 🌍 Conecta conmigo
-- 💼 [LinkedIn](https://www.linkedin.com/in/hubertferrer/)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/hubert-ferrer-guerrero-33120513a/)  
 - 📧 [Correo](mailto:hubert.ferrerg8@gmail.com)
 
 
