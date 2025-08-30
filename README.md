@@ -1,6 +1,6 @@
 # 👋 Hola, soy Hubert Ferrer
 
-💻 Soy desarrollador **Full Stack .NET & React**.
+💻 Desarrollador **Full Stack .NET & React**.
 - ⚡ React, JavaScript
 - ⚡ .NET (C#, VB.NET, ASP.NET WebForms)
 - ⚡ SQL Server & PostgreSQL
