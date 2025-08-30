@@ -41,7 +41,7 @@
 
 <!-- Hello World como firma -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=0A66C2&size=16&center=true&vCenter=true&width=500&lines=Console.WriteLine(%22Hello+World!%22);Soy+Hubert+Ferrer+🚀;Full+Stack+.NET+%26+React+💻" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=0A66C2&size=16&center=true&vCenter=true&width=500&lines=Console.WriteLine(%22Hello+World!%22);Soy+Hubert+Ferrer+🚀;Full+Stack+.NET+%26+React+💻&background=F5F5F5" />
 </p>
 
 
