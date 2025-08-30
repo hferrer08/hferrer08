@@ -12,14 +12,6 @@
   - 🚀 TypeScript  
   - 📊 Arquitectura de software y buenas prácticas
 
----
-
-<!-- Hello World animado -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=007ACC&size=16&center=true&vCenter=true&width=500&lines=Console.WriteLine(%22Hello+World!%22);Soy+Hubert+Ferrer+🚀;Full+Stack+.NET+%26+React+💻" />
-</p>
-
----
 
 ### 🔨 Tecnologías & Herramientas
 
@@ -46,6 +38,11 @@
 ## 🌍 Conecta conmigo
 - 💼 [LinkedIn](https://www.linkedin.com/in/hubert-ferrer-guerrero-33120513a/)  
 - 📧 [Correo](mailto:hubert.ferrerg8@gmail.com)
+
+<!-- Hello World como firma -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=0A66C2&size=16&center=true&vCenter=true&width=500&lines=Console.WriteLine(%22Hello+World!%22);Soy+Hubert+Ferrer+🚀;Full+Stack+.NET+%26+React+💻" />
+</p>
 
 
 <!--
