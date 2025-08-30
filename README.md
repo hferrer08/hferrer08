@@ -6,7 +6,8 @@
 - ⚡ SQL Server & PostgreSQL
 - ⚡ LINQ, Entity Framework
 
-- 🌱 Actualmente profundizando en:
+
+🌱 Actualmente profundizando en:
   - ⚡ API en C#  
   - 🚀 TypeScript  
   - 📊 Arquitectura de software y buenas prácticas
