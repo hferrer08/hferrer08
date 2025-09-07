@@ -7,9 +7,10 @@
 - ⚡ LINQ, Entity Framework
 
 
-🌱 Actualmente profundizando en:
+🌱 Actualmente aprendiendo/profundizando en:
   - ⚡ API en C#  
-  - 🚀 TypeScript  
+  - 🚀 TypeScript
+  - 🚀 Next.js  
   - 📊 Arquitectura de software y buenas prácticas
 
 
