@@ -8,8 +8,6 @@
 
 
 🌱 Actualmente aprendiendo/profundizando en:
-  - ⚡ API en C#  
-  - 🚀 TypeScript
   - 🚀 Next.js  
   - 📊 Arquitectura de software y buenas prácticas
 
