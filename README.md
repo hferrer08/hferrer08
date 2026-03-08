@@ -6,11 +6,9 @@
 - ⚡ SQL Server & PostgreSQL
 - ⚡ LINQ, Entity Framework
 
-
 🌱 Actualmente aprendiendo/profundizando en:
   - 🚀 Next.js  
   - 📊 Arquitectura de software y buenas prácticas
-
 
 ### 🔨 Tecnologías & Herramientas
 
@@ -24,7 +22,6 @@
 ![VB.NET](https://img.shields.io/badge/VB.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
 
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
-
 
 ## 📊 GitHub Stats
 ![Hubert's GitHub stats](https://github-readme-stats.vercel.app/api?username=hferrer08&show_icons=true&theme=radical)
@@ -40,9 +37,8 @@
 
 <!-- Hello World como firma -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=0A66C2&size=16&center=true&vCenter=true&width=500&lines=Console.WriteLine(%22Hello+World!%22);Soy+Hubert+Ferrer+🚀;Full+Stack+.NET+%26+React+💻&background=F5F5F5" />
+  <img src="https://readme-typing-svg.demolab.com?color=0A66C2&size=16&center=true&vCenter=true&width=500&lines=Console.WriteLine(%22Hello+World!%22);Soy+Hubert+Ferrer+🚀;Full+Stack+.NET+%26+React+💻&background=F5F5F5" alt="Typing SVG" />
 </p>
-
 
 <!--
 **hferrer08/hferrer08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
