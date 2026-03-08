@@ -24,10 +24,10 @@
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
 
 ## 📊 GitHub Stats
-![Hubert's GitHub stats](https://github-readme-stats.vercel.app/api?username=hferrer08&show_icons=true&theme=radical)
+![Hubert's GitHub stats](https://readme-stats-fast.vercel.app/api?username=hferrer08&show_icons=true&theme=radical)
 
 ## 🚀 Lenguajes más usados
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hferrer08&layout=compact&theme=radical)
+![Top Langs](https://readme-stats-fast.vercel.app/api/top-langs/?username=hferrer08&layout=compact&theme=radical)
 
 ---
 
