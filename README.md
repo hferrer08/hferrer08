@@ -6,9 +6,8 @@
 - ⚡ SQL Server & PostgreSQL
 - ⚡ LINQ, Entity Framework
 
-🌱 Actualmente aprendiendo/profundizando en:
-  - 🚀 Next.js  
-  - 📊 Arquitectura de software y buenas prácticas
+🌱 Actualmente estudiando: 
+  - 📖 Máster en Desarrollo de Aplicaciones y Servicios Web ( VIU - Universidad Internacional de Valencia )
 
 ### 🔨 Tecnologías & Herramientas
 
